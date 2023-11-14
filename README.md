@@ -1,6 +1,7 @@
 # project_management_
-Description
- is a web-based application designed to facilitate task management and collaboration among users. 
+Description :
+
+This is a web-based application designed to facilitate task management and collaboration among users. 
  The system provides a user-friendly interface where users can add tasks, assign them to specific users, and track the status of each task.
 
 Prerequisites
